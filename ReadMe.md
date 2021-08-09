@@ -24,19 +24,17 @@ In this project, the system will recognise the colour of the sketch through **co
 - The first thing to do is to clone the repository:
 
 ```sh
-
-$ git clone https://github.com/Lovekesh-GH/VirtualPaintCV.git
+$ git clone https://github.com/Lovekesh-GH/attendance.git
 $ cd attendance
-
 ```
 
 
 - Create a virtual environment to install dependencies in and activate it:
 
-  ```sh
-    $ python3 -m venv venv
-    $ source venv/bin/activate
-    ```
+```sh
+$ python3 -m venv venv
+$ source venv/bin/activate
+```
 
 
 > This project files requires **Python 3** and the following Python libraries installed:
